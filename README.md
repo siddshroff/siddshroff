@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Java, Microservices, AWS, Security**
+- 💬 Ask me about **Java, Spring, Nodejs, Microservices, AWS, Security**
 
 - 📫 How to reach me **siddshroff@gmail.com**
 
