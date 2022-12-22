@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **siddshroff@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/siddshroff/siddshroff/blob/main/Siddharth_Shroff_Senior_Software_Engineer.pdf](https://github.com/siddshroff/siddshroff/blob/main/Siddharth_Shroff_Senior_Software_Engineer.pdf)
+- 📄 Know about my experiences <a href="https://github.com/siddshroff/siddshroff/blob/main/Siddharth_Shroff_Senior_Software_Engineer.pdf">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
