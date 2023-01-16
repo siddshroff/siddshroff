@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddshroff&label=Profile%20views&color=0e75b6&style=flat" alt="siddshroff" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes** and **Terraform**
 
 - 💬 Ask me about **Java, Spring, Nodejs, Microservices, AWS, Security**
 
