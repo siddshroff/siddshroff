@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddshroff&label=Profile%20views&color=0e75b6&style=flat" alt="siddshroff" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes** and **Terraform**
+- 🌱 I’m currently learning **Terraform**
 
 - 💬 Ask me about **Java, Spring, Nodejs, Microservices, AWS, Security**
 
@@ -19,6 +19,7 @@
 <h3 align="left">Certifications:</h3>
  <a href="https://github.com/siddshroff/siddshroff/blob/main/Certifications/SI%20Associate%20MongoDB%20Siddharth%20Shroff.pdf"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
  <a href="https://www.credly.com/badges/5329b28c-77ab-4155-802d-180223719349/">IBM Cloud </a>
+ <a href="https://www.credly.com/badges/c668d2eb-ca66-4818-a4b6-61ae514db46a/public_url/">CKAD: Certified Kubernetes Application Developer </a>
  
 <h3 align="left">Languages:</h3>
 <p align="left">
